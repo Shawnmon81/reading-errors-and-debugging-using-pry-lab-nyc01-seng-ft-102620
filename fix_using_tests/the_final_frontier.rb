@@ -14,3 +14,5 @@ def engage
   p state_log(2020)
   p generate_star_date
 end
+
+engage
