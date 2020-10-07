@@ -11,7 +11,7 @@ def state_log(star_date)
 end
 
 def engage
-  p state_log(time.now.year)
+  p state_log(2020)
   p generate_star_date
 end
 
